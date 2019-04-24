@@ -1,6 +1,6 @@
 ESP32 Module With OLED
 =============================================
-Copyright 2019 SuperHouse Automation Pty Ltd  www.superhouse.tv  
+Copyright 2019 Freetronics Pty Ltd  www.freetronics.com.au  
 
 ESP32 module with UI, USB-C, and I/O.
 
@@ -9,7 +9,7 @@ Includes 4 buttons for input, and an I/O Breakout header
 
 More information is available at:
 
-  http://www.superhouse.tv/pebbl3
+  http://www.freetronics.com.au/pebbl3
 
 
 INSTALLATION
